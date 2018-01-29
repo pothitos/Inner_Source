@@ -190,7 +190,7 @@ fails, the next stage is not (normally) executed. You can
 access the pipelines page in your project's _Pipelines_ tab.
 As you can see in the below figure, two stages, `build` and
 `test`, have been defined in the `.gitlab-ci.yml` file for
-the Component project.
+the Component's GitLab project.
 
 ![A pipeline for building a Component](figures/pipeline.png)
 
