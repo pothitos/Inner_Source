@@ -200,7 +200,7 @@ mandatory jobs in the pipeline.
 
 Job             | Description
 ----------------|-------------
-build           | Component should be compiled in GitLab-CI. Build job should include only code build and not any other test or packaging related activities.
+build           | Component should be compiled in GitLab CI. Build job should include only code build and not any other test or packaging related activities.
 static-analysis | This applies to all Components with available source code.
 unit-test       | If the Component you are responsible has Unit Tests (UT), then use this job.
 functional-test | If the Component you are responsible for has functional tests, use this job.
