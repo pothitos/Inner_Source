@@ -151,7 +151,7 @@ Hotfixes should be applied either to older or to the running
 releases, and sometimes merging from one release to another
 is required.
 
-> #### Hotfix Use Case
+> #### A Hotfix Use Case
 > 
 > Hotfix should be applied to the release tag `v1.0.1`.
 > 
