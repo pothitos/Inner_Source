@@ -235,7 +235,7 @@ to
  1. fetch the source code from __other__ Component(s)
     repository(ies),
  2. contain the specifications (e.g. RPM SPEC file or
-    Dockerfile etc) to build a binary for a specific
+    Dockerfile etc.) to build a binary for a specific
     operating system (e.g. Red Hat 7.3),
  3. trigger a GitLab CI job that uses the code in 1. and 2.
     to create a binary file (e.g. RPM or Docker image).
